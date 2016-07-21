@@ -1,5 +1,5 @@
 # pyscript
 
-dividirpdf - Takes a pdf file with multiple files and splits into multiple pages
+dividirpdf.py - Takes a pdf file with multiple files and splits into multiple pages
 
-ementa - Automates the process of formatting daily lunch for the institution
+lunch - Automates the process of formatting daily lunch for the institution. Information recieved from the chef
